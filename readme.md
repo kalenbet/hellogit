@@ -1,3 +1,4 @@
 Hi
 Everyone!
-Italic*
+*Italic*
+**Bold**
